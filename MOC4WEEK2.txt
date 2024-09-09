@@ -12,6 +12,9 @@ True or false? Effective co-presenting enhances a presentation rather than hinde
 Approximately what percentage of a poster should contain text?|60%
 If you need to temporarily step away from your poster, what should you do?|Ask a neighboring presenter to greet your viewers for you.
 Which title below uses correct capitalization?|The Case for School Uniforms
-What is optional when providing your contact information on a handout?|Your affiliation
+What is optional when providing your contact information on a handout?|Your email address
 What should you do between subheadings in a handout?|Leave a blank line
 True or false? It's a good idea to print handouts in color for your presentation.|False
+True or false? It's a good idea to have your presentation saved in three places when you prepare to present: on a flash drive, on a cloud service, and printed for back up.|True
+Which of the following is the best title for a poster?|Increasing Productivity through Employee Motivation
+Which title below uses correct capitalization?|The Consequences of Global Warming
